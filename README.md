@@ -39,7 +39,7 @@ Upload your demo video to Google Drive and paste the shareable link here(max 3 m
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone <https://github.com/asvingeorge/build-with-ai/tree/main>
 
 # Go to project folder
 cd crisissync
