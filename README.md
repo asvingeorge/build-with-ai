@@ -1,20 +1,15 @@
-# Project Name
-
+#crisissync
 ## Problem Statement
-Explain clearly what problem your project is solving.
-
+Explains the gap between incident reporting and responder dispatch — no structured AI pipeline exists for plain-language emergency reports
 ## Project Description
-Describe your solution, how it works, and what makes it useful.
-
+Full 5-step flow: AI Triage → Fallback Classifier → Authority Routing → Live Dispatch Log → Location Sync + Auto Alert Plan
 ---
 
 ## Google AI Usage
-### Tools / Models Used
-- 
+Gemini 2.0 Flash (REST API) + Google Maps JavaScript API- 
 
 ### How Google AI Was Used
-Explain clearly how AI is integrated into your project.
-
+Explains the exact prompt, strict JSON mode, temperature: 0.2, downstream pipeline it drives, and the Maps coordinate pinning
 ---
 
 ## Proof of Google AI Usage
