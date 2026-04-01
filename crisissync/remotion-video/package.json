@@ -1,0 +1,23 @@
+{
+  "name": "crisissync-remotion-video",
+  "version": "1.0.0",
+  "description": "CrisisSync promo video built with Remotion",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio",
+    "render": "remotion render CrisisSyncPromo out/crisissync-promo.mp4",
+    "build": "remotion render CrisisSyncPromo out/crisissync-promo.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.230",
+    "@remotion/renderer": "^4.0.230",
+    "remotion": "^4.0.230",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.4.0"
+  }
+}
