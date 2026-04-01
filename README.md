@@ -22,14 +22,16 @@ Attach screenshots in a `/proof` folder:
 ## Screenshots 
 Add project screenshots:
 
-![Screenshot1](./assets/screenshot1.png)  
-![Screenshot2](./assets/screenshot2.png)
+![Screenshot1](./assets/screenshot2.png)  
+![Screenshot2](./assets/screenshot3.png)
+![Screenshot2](./assets/screenshot4.png)
+
 
 ---
 
 ## Demo Video
 Upload your demo video to Google Drive and paste the shareable link here(max 3 minutes).
-[Watch Demo](#)
+[https://drive.google.com/drive/folders/1sUa1UTCDFAk8BWYfdOQUsdVJgO56xG6e?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto](#)
 
 ---
 
@@ -40,7 +42,7 @@ Upload your demo video to Google Drive and paste the shareable link here(max 3 m
 git clone <your-repo-link>
 
 # Go to project folder
-cd project-name
+cd crisissync
 
 # Install dependencies
 npm install
